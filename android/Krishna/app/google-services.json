@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1032983307269",
+    "firebase_url": "https://krishna-5a2c7.firebaseio.com",
+    "project_id": "krishna-5a2c7",
+    "storage_bucket": "krishna-5a2c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032983307269:android:bee9ac449ae65d96",
+        "android_client_info": {
+          "package_name": "com.example.krishna.krishna"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032983307269-45q7i921qkmvoi1rso9jarc9edauad2g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9jaFjDWb9RDnujEsis5t8UiQLYvwAvv0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
