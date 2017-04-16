@@ -2,4 +2,4 @@
 
 - this folder contains .py files which will run on raspberry pi <br />
   - Usage:
-      - python3 <filename>.py.
+      - python3 filename.py.
