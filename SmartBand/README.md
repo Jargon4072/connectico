@@ -1,4 +1,4 @@
-#smart band for home automation
+#smart band for home automation <br />
 code for prototype smart band made using modules:
     1)Electrate mocrophome module- MAX4466
     2)MCU friend TFT lcd module
