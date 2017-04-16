@@ -5,4 +5,4 @@
     - MPU6050 Acx, Gy module
     - NodeMCU ESP8266 <br />
 
-arduino folder contains codes for esp8266(NodeMCU) and ATMEGA328p MC.
+- arduino folder contains codes for esp8266(NodeMCU) and ATMEGA328p MC.
